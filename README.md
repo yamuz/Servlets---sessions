@@ -1,2 +1,2 @@
 # Servlets---sessions
-Simple sessions servlet app
+Simple sessions servlet application
